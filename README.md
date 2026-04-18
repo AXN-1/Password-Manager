@@ -1,3 +1,4 @@
+#Password Manager
 This program is a simple command-line password manager built in Python. It allows users to save, view, and generate passwords for different websites. The passwords are stored in a text file (password.txt) so they can be retrieved later.
 
 Key Features
