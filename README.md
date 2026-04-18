@@ -1,3 +1,4 @@
+Personal Password Manager 
 This program is a simple command-line password manager built in Python. It allows users to save, view, and generate passwords for different websites. The passwords are stored in a text file (password.txt) so they can be retrieved later.
 
 Key Features
@@ -33,4 +34,4 @@ Generated passwords are only 8 characters long; increasing length (e.g., 12–16
 
 File handling uses append mode ("a"), which may cause duplicates. Using write mode with overwrite or structured storage (like JSON) would be cleaner.
 
-Adding a search option (to find a password for a specific site) would make it more practical.# Password-Manager
+Adding a search option (to find a password for a specific site) would make it more practical.
