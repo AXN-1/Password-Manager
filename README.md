@@ -33,4 +33,4 @@ Generated passwords are only 8 characters long; increasing length (e.g., 12–16
 
 File handling uses append mode ("a"), which may cause duplicates. Using write mode with overwrite or structured storage (like JSON) would be cleaner.
 
-Adding a search option (to find a password for a specific site) would make it more practical.
+Adding a search option (to find a password for a specific site) would make it more practical.     
